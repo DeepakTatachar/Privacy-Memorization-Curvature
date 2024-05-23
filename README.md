@@ -5,7 +5,7 @@ This code is the official implementation for the paper, **Unveiling Privacy, Mem
 Accepted at ICML'24, if you use this github repo consider citing our work
 ```bibtex
 @inproceedings{
-    anonymous2024unveiling,
+    ravikumar2024unveiling,
     title={Unveiling Privacy, Memorization, and Input Curvature Links},
     author={Ravikumar, Deepak and Soufleri, Efstathia and Hashemi, Abolfazl and Roy, Kaushik},
     booktitle={Forty-first International Conference on Machine Learning},
