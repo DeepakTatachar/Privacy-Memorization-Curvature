@@ -2,6 +2,18 @@
 
 This code is the official implementation for the paper, **Unveiling Privacy, Memorization, and Input Curvature Links**. This code contains the experiments for the three links described in the paper.
 
+Accepted at ICML'24, if you use this github repo consider citing our work
+```bibtex
+@inproceedings{
+    anonymous2024unveiling,
+    title={Unveiling Privacy, Memorization, and Input Curvature Links},
+    author={Ravikumar, Deepak and Soufleri, Efstathia and Hashemi, Abolfazl and Roy, Kaushik},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024},
+    url={https://openreview.net/forum?id=4dxR7awO5n}
+}
+```
+
 Setup the environment
 ---------------------
 We recommend using conda as the environment manager. We provide the environment file to run our experiments in `environment.yml` file. Please note this environment needs both PyTorch and TensorFlow installed and this is sometimes causes conflicts. Download the `analysis_checkpoints` directory from [here (link to be updated later)](example.com) and place it in the root folder.
