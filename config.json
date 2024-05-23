@@ -1,0 +1,17 @@
+{
+    "fz_model_dir": {
+        "cifar100": "/set path/cifar100-inception/",
+        "imagenet": "/set path/imagenet-resnet50/"
+    },
+
+    "fz_precomputed_score_dir": {
+        "cifar100": "/set path/fz_curv_scores/cifar100",
+        "imagenet": "/set path/fz_curv_scores/imagenet"
+    },
+
+    "private_model_dir": "/set path/private_models/",
+    "private_precomputed_score_dir": "/set path/curv_scores/",
+    "log_dir": "./logs",
+    "seeds_dir": "./seeds",
+    "data_dir": "/set path/datasets"
+}

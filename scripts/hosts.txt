@@ -1,0 +1,4 @@
+host1,gpu_id1
+host1,gpu_id2
+host2,gpu_id1
+

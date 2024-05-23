@@ -1,0 +1,12 @@
+/pretrained
+/runs
+/logs
+__pycache__
+/data
+/curve_scores
+/images
+/plots
+/dataset_idxs
+/seeds
+/curv_scores
+/.vscode
