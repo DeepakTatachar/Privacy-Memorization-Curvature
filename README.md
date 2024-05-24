@@ -2,7 +2,7 @@
 
 This code is the official implementation for the paper, **Unveiling Privacy, Memorization, and Input Curvature Links**. This code contains the experiments for the three links described in the paper.
 
-Accepted at ICML'24, if you use this github repo consider citing our work
+Accepted at ICML 2024, if you use this github repo consider citing our work
 ```bibtex
 @inproceedings{
     ravikumar2024unveiling,
