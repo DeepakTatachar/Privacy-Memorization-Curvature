@@ -1,8 +1,8 @@
-## Code Repository for Linking Privacy, Memorization and Input Loss Curvature
+## Code Repository for Unveiling Privacy, Memorization and Input Loss Curvature
 
 This code is the official implementation for the paper, **Unveiling Privacy, Memorization, and Input Curvature Links**. This code contains the experiments for the three links described in the paper.
 
-Accepted at ICML 2024, if you use this github repo consider citing our work
+ICML 2024, if you use this github repo consider citing our work
 ```bibtex
 @inproceedings{
     ravikumar2024unveiling,
@@ -13,6 +13,8 @@ Accepted at ICML 2024, if you use this github repo consider citing our work
     url={https://openreview.net/forum?id=4dxR7awO5n}
 }
 ```
+
+Unveiling Privacy, Memorization, and Input Curvature Links ICML [paper link](https://openreview.net/forum?id=4dxR7awO5n). You may also be interested in our other memorization work "Memorization Through the Lens of Curvature of Loss Function Around Samples" (ICML 24 Spotlight) [paper](https://openreview.net/forum?id=WQbDS9RydY), [code](https://github.com/purdue-nrl/Memorization-Curvature).
 
 Setup the environment
 ---------------------
